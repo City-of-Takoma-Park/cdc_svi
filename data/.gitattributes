@@ -1,0 +1,2 @@
+NFHL_24_20200624.gdb filter=lfs diff=lfs merge=lfs -text
+US_place_2019.* filter=lfs diff=lfs merge=lfs -text
